@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1765173968 source:d:\code\c\uni math solve\main.c
+	<stdio.h>
+	<stdlib.h>
+
