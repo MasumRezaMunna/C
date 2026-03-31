@@ -13,7 +13,7 @@ case 100:
 printf("you pooor");
 break;
 default:
-    printf("you die");
+    printf("you will die");
 }
 return 0;
 
